@@ -10,6 +10,9 @@ This project analyzes the Student Performance dataset using Python.
 - Answer key academic performance questions
 - Visualize insights using graphs
 
+## Internship Information
+This project was completed as part of a Data Science Internship at Maincraft Technology.
+
 ## Tools Used
 - Python
 - Pandas
